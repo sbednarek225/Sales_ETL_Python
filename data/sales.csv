@@ -1,0 +1,9 @@
+order_id,product,price,quantity,country
+1,Phone,1000,1,USA
+2,Laptop,2000,1,UK
+3,Mouse,50,2,USA
+4,Keyboard,,1,Germany
+5,Monitor,300,1,France
+6,Phone,1000,0,USA
+7,Laptop,2000,1,
+8,Mouse,50,3,UK
